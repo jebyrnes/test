@@ -6,4 +6,4 @@
 library(ggplot2)
 
 ggplot(data = mtcars, mapping = aes(x=cyl, y=mpg)) +
-  geom_point()
+  geom_point()  
